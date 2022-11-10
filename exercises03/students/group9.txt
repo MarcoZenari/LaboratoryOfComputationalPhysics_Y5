@@ -1,0 +1,4 @@
+Bertola,Tommaso,tommaso.bertola@studenti.unipd.it,PoD
+Feltrin,Antonio,antonio.feltrin@studenti.unipd.it,PoD
+Miranda,Manfredi,manfredi.miranda@studenti.unipd.it,PoD
+Toso,Simone,simone.toso.2@studenti.unipd.it,PoD

@@ -1,0 +1,4 @@
+Checchia,Davide,davide.checchia@studenti.unipd.it,PoD
+Isotton,Gloria,gloria.isotton@studenti.unipd.it,PoD
+Pra Floriani,Filippo,filippo.prafloriani@studenti.unipd.it,PoD
+Zal,Abbas,abbas.zal@studenti.unipd.it,PoD

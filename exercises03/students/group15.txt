@@ -1,0 +1,4 @@
+Bucalo,Edoardo,edoardorenato.bucalo@studenti.unipd.it,Physics
+Hatamjahromi,Roozbeh,Roozbeh.hatam1377@gmail.com / 10675931@unipd.it,PoD
+Pitteri,Alessio,alessio.pitteri@studenti.unipd.it,PoD
+Zago,Giovanni,giovanni.zago.2@studenti.unipd.it,PoD

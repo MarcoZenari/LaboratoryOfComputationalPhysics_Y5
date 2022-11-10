@@ -1,0 +1,4 @@
+Bedin,Veronica,veronica.bedin.1@studenti.unipd.it,PoD
+Dodampe Gamage,Eran,erankawinda.dodampegamage@studenti.unipd.it,PoD
+Menti,Luca,luca.menti@studenti.unipd.it,PoD
+Saretto,Saretto,alberto.saretto.1@studenti.unipd.it,Physics

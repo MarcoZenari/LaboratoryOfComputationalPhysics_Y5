@@ -1,0 +1,4 @@
+Bordin,Guglielmo,guglielmo.bordin@studenti.unipd.it,PoD
+Ghaemifar,Sepideh,sepideh.ghaemifar@studenti.unipd.it,PoD
+Panagiotakis,Konstantinos,konstantinos.panagiotakis@studenti.unipd.it,POD
+Viterbo,Giuseppe,giuseppe.viterbo@studenti.unipd.it,PoD

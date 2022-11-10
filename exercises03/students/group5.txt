@@ -1,0 +1,4 @@
+Barbiero,Lorenzo,lorenzo.barbiero.1@studenti.unipd.it,PoD
+Divari,Carlo,carlo.divari@studenti.unipd.it,PoD
+Mengoni,Leon,leon.mengoni@studenti.unipd.it,PoD
+Sardo Infirri,Giosuè,giosue.sardoinfirri@studenti.unipd.it,PoD
